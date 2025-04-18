@@ -1,1 +1,1 @@
-file-b content
+file-b changed
